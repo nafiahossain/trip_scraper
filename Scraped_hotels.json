@@ -1,0 +1,1279 @@
+[
+    {
+        "propertyTitle": "Britannia International Hotel Canary Wharf",
+        "rating": 3.7,
+        "location": "london",
+        "latitude": 51.5019422,
+        "longitude": -0.0233396,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Bar",
+            "Breakfast",
+            "Pets allowed"
+        ],
+        "price": 44,
+        "img": "https://ak-d.tripcdn.com/images/1mc1f12000apgadzt75C4.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/1mc1f12000apgadzt75C4.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "St Giles London \u2013 A St Giles Hotel",
+        "rating": 4.1,
+        "location": "london",
+        "latitude": 51.51755790000001,
+        "longitude": -0.1306328,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 64,
+        "img": "https://ak-d.tripcdn.com/images/020081200094yf4vv90B9.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/020081200094yf4vv90B9.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Dreamtel London Kensington",
+        "rating": 3.7,
+        "location": "london",
+        "latitude": 51.49329179999999,
+        "longitude": -0.1918628,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Breakfast"
+        ],
+        "price": 60,
+        "img": "https://ak-d.tripcdn.com/images/1mc3f12000d272kqk5CF8.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/1mc3f12000d272kqk5CF8.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Good Hotel London",
+        "rating": 4.2,
+        "location": "london",
+        "latitude": 51.5075502,
+        "longitude": 0.0195489,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 68,
+        "img": "https://ak-d.tripcdn.com/images/220g0z000000mo2l96109.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/220g0z000000mo2l96109.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Axiom Park Hotel",
+        "rating": 3.7,
+        "location": "london",
+        "latitude": 51.4743806,
+        "longitude": -0.1570833,
+        "room_type": [
+            "24 hour reception",
+            "Currency exchange",
+            "Luggage storage",
+            "Wi-Fi"
+        ],
+        "price": 59,
+        "img": "https://ak-d.tripcdn.com/images/02269120009zuy22k7836.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/02269120009zuy22k7836.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Leonardo Royal London Tower Bridge",
+        "rating": 4.3,
+        "location": "london",
+        "latitude": 51.5117814,
+        "longitude": -0.0715236,
+        "room_type": [
+            "Sauna",
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Luggage storage",
+            "Spa",
+            "Swimming Pools",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 110,
+        "img": "https://ak-d.tripcdn.com/images/20081a00000196k4j01A7.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/20081a00000196k4j01A7.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "The Gantry London, Curio Collection by Hilton",
+        "rating": 4.6,
+        "location": "london",
+        "latitude": 51.5464032,
+        "longitude": -0.0079163,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Gym",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Bar",
+            "Pets allowed",
+            "Breakfast"
+        ],
+        "price": 134,
+        "img": "https://ak-d.tripcdn.com/images/0223e120009q773r9E37E.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0223e120009q773r9E37E.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Zedwell Piccadilly Circus",
+        "rating": 3.9,
+        "location": "london",
+        "latitude": 51.5104658,
+        "longitude": -0.1335862,
+        "room_type": [
+            "24 hour reception",
+            "Gym",
+            "Luggage storage",
+            "Wi-Fi",
+            "Breakfast"
+        ],
+        "price": 86,
+        "img": "https://ak-d.tripcdn.com/images/0226412000c3v6hmo7CBC.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0226412000c3v6hmo7CBC.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Royal National Hotel",
+        "rating": 4,
+        "location": "london",
+        "latitude": 51.5234634,
+        "longitude": -0.1273153,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Wi-Fi",
+            "Breakfast"
+        ],
+        "price": 104,
+        "img": "https://ak-d.tripcdn.com/images/1mc4512000dl5w9gpC200.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/1mc4512000dl5w9gpC200.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "easyHotel London City Shoreditch",
+        "rating": 4,
+        "location": "london",
+        "latitude": 51.5244235,
+        "longitude": -0.0946223,
+        "room_type": [
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Pets allowed"
+        ],
+        "price": 53,
+        "img": "https://ak-d.tripcdn.com/images/0224a12000a38eraf686E.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0224a12000a38eraf686E.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Britannia Hotel City Centre Manchester",
+        "rating": 3.8,
+        "location": "manchester",
+        "latitude": 53.479134,
+        "longitude": -2.2373328,
+        "room_type": [
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast",
+            "Pets allowed"
+        ],
+        "price": 30,
+        "img": "https://ak-d.tripcdn.com/images/200w1g000001hmu2i1BAE.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/200w1g000001hmu2i1BAE.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Sachas Hotel Manchester",
+        "rating": 3.7,
+        "location": "manchester",
+        "latitude": 53.4824184,
+        "longitude": -2.2370189,
+        "room_type": [
+            "Sauna",
+            "Gym",
+            "24 hour reception",
+            "Luggage storage",
+            "Spa",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast",
+            "Pets allowed"
+        ],
+        "price": 28,
+        "img": "https://ak-d.tripcdn.com/images/0581u12000cunr2dsD6D0.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0581u12000cunr2dsD6D0.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Leonardo Hotel Manchester Piccadilly",
+        "rating": 4.4,
+        "location": "manchester",
+        "latitude": 53.47884879999999,
+        "longitude": -2.2224104,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Gym",
+            "Luggage storage",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 65,
+        "img": "https://ak-d.tripcdn.com/images/02234120009eos0cb5CCC.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/02234120009eos0cb5CCC.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Hampton by Hilton Manchester Northern Quarter",
+        "rating": 4.1,
+        "location": "manchester",
+        "latitude": 53.4877584,
+        "longitude": -2.2336475,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Gym",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 54,
+        "img": "https://ak-d.tripcdn.com/images/0226h120008ff0g5tDE5F.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0226h120008ff0g5tDE5F.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Leonardo Hotel Manchester Central",
+        "rating": 4.2,
+        "location": "manchester",
+        "latitude": 53.474752,
+        "longitude": -2.2466889,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 56,
+        "img": "https://ak-d.tripcdn.com/images/0583p12000cvdzmhd366A.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0583p12000cvdzmhd366A.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "OX Hotel Manchester",
+        "rating": 4.1,
+        "location": "manchester",
+        "latitude": 53.48428,
+        "longitude": -2.33917,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 33,
+        "img": "https://ak-d.tripcdn.com/images/0222z120009fsopow85D6.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0222z120009fsopow85D6.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "The Townhouse Manchester",
+        "rating": 4.4,
+        "location": "manchester",
+        "latitude": 53.4773606,
+        "longitude": -2.2397306,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 47,
+        "img": "https://ak-d.tripcdn.com/images/0586312000cun6vt42135.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0586312000cun6vt42135.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Yotel Manchester Deansgate",
+        "rating": 4.6,
+        "location": "manchester",
+        "latitude": 53.4805178,
+        "longitude": -2.2476273,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Bar",
+            "Pets allowed",
+            "Breakfast"
+        ],
+        "price": 49,
+        "img": "https://ak-d.tripcdn.com/images/02241120008xdx4wu43CD.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/02241120008xdx4wu43CD.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "easyHotel Manchester",
+        "rating": 4.3,
+        "location": "manchester",
+        "latitude": 53.48172959999999,
+        "longitude": -2.2329725,
+        "room_type": [
+            "24 hour reception",
+            "Luggage storage",
+            "Smoking area",
+            "Wi-Fi",
+            "Pets allowed"
+        ],
+        "price": 33,
+        "img": "https://ak-d.tripcdn.com/images/0220112000dlrxw8g1206.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0220112000dlrxw8g1206.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Ibis Budget Manchester Salford Quays",
+        "rating": 4.1,
+        "location": "manchester",
+        "latitude": 53.4694498,
+        "longitude": -2.2823923,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Breakfast",
+            "Pets allowed"
+        ],
+        "price": 29,
+        "img": "https://ak-d.tripcdn.com/images/0583h12000cs52fnsFFEB.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0583h12000cs52fnsFFEB.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Adelphi Hotel",
+        "rating": 4,
+        "location": "liverpool",
+        "latitude": 53.405478,
+        "longitude": -2.9778195,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Gym",
+            "Currency exchange",
+            "Luggage storage",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast",
+            "Pets allowed"
+        ],
+        "price": 35,
+        "img": "https://ak-d.tripcdn.com/images/1mc2p12000bcdto32772F.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/1mc2p12000bcdto32772F.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Tune Hotel Liverpool",
+        "rating": 3.9,
+        "location": "liverpool",
+        "latitude": 53.4061593,
+        "longitude": -2.9907395,
+        "room_type": [
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi"
+        ],
+        "price": 38,
+        "img": "https://ak-d.tripcdn.com/images/02255120009stu0ayE997.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/02255120009stu0ayE997.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "easyHotel Liverpool",
+        "rating": 4.2,
+        "location": "liverpool",
+        "latitude": 53.40573209999999,
+        "longitude": -2.9901936,
+        "room_type": [
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area"
+        ],
+        "price": 30,
+        "img": "https://ak-d.tripcdn.com/images/0223n12000a4fc2u26557.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0223n12000a4fc2u26557.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Aparthotel Adagio Liverpool City Centre",
+        "rating": 4.4,
+        "location": "liverpool",
+        "latitude": 53.4048695,
+        "longitude": -2.9792093,
+        "room_type": [
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Breakfast",
+            "Pets allowed"
+        ],
+        "price": 61,
+        "img": "https://ak-d.tripcdn.com/images/02213120008ancls68769.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/02213120008ancls68769.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Novotel Liverpool Paddington Village",
+        "rating": 4.7,
+        "location": "liverpool",
+        "latitude": 53.4069599,
+        "longitude": -2.9609572,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Gym",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 62,
+        "img": "https://ak-d.tripcdn.com/images/0223y12000c3pckj49A94.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0223y12000c3pckj49A94.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "The Liner at Liverpool",
+        "rating": 4.4,
+        "location": "liverpool",
+        "latitude": 53.4082957,
+        "longitude": -2.9762681,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 60,
+        "img": "https://ak-d.tripcdn.com/images/220r0z000000mqahu6893.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/220r0z000000mqahu6893.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Ropewalks Hotel, BW Premier Collection",
+        "rating": 4,
+        "location": "liverpool",
+        "latitude": 53.4026651,
+        "longitude": -2.9812941,
+        "room_type": [
+            "24 hour reception",
+            "Gym",
+            "Luggage storage",
+            "Wi-Fi",
+            "Bar",
+            "Pets allowed"
+        ],
+        "price": 40,
+        "img": "https://ak-d.tripcdn.com/images/0586912000e4gglzs4762.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0586912000e4gglzs4762.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Heeton Concept Hotel City Centre Liverpool",
+        "rating": 4.1,
+        "location": "liverpool",
+        "latitude": 53.4050131,
+        "longitude": -2.9918341,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Breakfast"
+        ],
+        "price": 34,
+        "img": "https://ak-d.tripcdn.com/images/220r0u000000j71yb3D30.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/220r0u000000j71yb3D30.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Hampton by Hilton Liverpool City Centre",
+        "rating": 4.1,
+        "location": "liverpool",
+        "latitude": 53.3984985,
+        "longitude": -2.986096,
+        "room_type": [
+            "Gym",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Bar",
+            "Breakfast",
+            "Pets allowed"
+        ],
+        "price": 52,
+        "img": "https://ak-d.tripcdn.com/images/0220z12000am3hzn5F834.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0220z12000am3hzn5F834.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Hilton Liverpool City Centre",
+        "rating": 4.2,
+        "location": "liverpool",
+        "latitude": 53.40234599999999,
+        "longitude": -2.9890153,
+        "room_type": [
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Bar",
+            "Breakfast",
+            "Pets allowed"
+        ],
+        "price": 69,
+        "img": "https://ak-d.tripcdn.com/images/1mc0q12000bvbvvnzE22F.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/1mc0q12000bvbvvnzE22F.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "NASA BANGKOK",
+        "rating": 3.9,
+        "location": "bangkok",
+        "latitude": 13.7429901,
+        "longitude": 100.6016475,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Breakfast"
+        ],
+        "price": 12,
+        "img": "https://ak-d.tripcdn.com/images/1mc0t12000btgb5fd35A4.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/1mc0t12000btgb5fd35A4.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Le Fenix Sukhumvit 11 Bangkok",
+        "rating": 3.1,
+        "location": "bangkok",
+        "latitude": 13.7449834,
+        "longitude": 100.55606259999999,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 17,
+        "img": "https://ak-d.tripcdn.com/images/1mc6w12000bzpi5nf7D0D.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/1mc6w12000bzpi5nf7D0D.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Ambassador Hotel Bangkok",
+        "rating": 4,
+        "location": "bangkok",
+        "latitude": 13.7419961,
+        "longitude": 100.55687479999999,
+        "room_type": [
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Currency exchange",
+            "Luggage storage",
+            "Car hire",
+            "Swimming Pools",
+            "Wi-Fi",
+            "Smoking area",
+            "Breakfast"
+        ],
+        "price": 32,
+        "img": "https://ak-d.tripcdn.com/images/1mc3y12000bgrpp526698.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/1mc3y12000bgrpp526698.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Suvarnabhumi Oriental Resort",
+        "rating": 4,
+        "location": "bangkok",
+        "latitude": 13.7265493,
+        "longitude": 100.73563539999999,
+        "room_type": [
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Currency exchange",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 11,
+        "img": "https://ak-d.tripcdn.com/images/220d1700000135a1u3370.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/220d1700000135a1u3370.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Royal Rattanakosin Hotel",
+        "rating": 3.8,
+        "location": "bangkok",
+        "latitude": 13.7570823,
+        "longitude": 100.49562639999999,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Currency exchange",
+            "Swimming Pools",
+            "Smoking area",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 17,
+        "img": "https://ak-d.tripcdn.com/images/220n0u000000j9jif8407.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/220n0u000000j9jif8407.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Mercure Bangkok Sukhumvit 11",
+        "rating": 4.4,
+        "location": "bangkok",
+        "latitude": 13.7432967,
+        "longitude": 100.5568579,
+        "room_type": [
+            "Airport pickup service",
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Luggage storage",
+            "Car hire",
+            "Swimming Pools",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 72,
+        "img": "https://ak-d.tripcdn.com/images/220g190000015odry3427.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/220g190000015odry3427.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Metropole Bangkok",
+        "rating": 4.1,
+        "location": "bangkok",
+        "latitude": 13.74425,
+        "longitude": 100.58595,
+        "room_type": [
+            "Sauna",
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Luggage storage",
+            "Car hire",
+            "Swimming Pools",
+            "Smoking area",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 25,
+        "img": "https://ak-d.tripcdn.com/images/0226w1200084abs3eFD44.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0226w1200084abs3eFD44.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Don Muang Hotel",
+        "rating": 4.1,
+        "location": "bangkok",
+        "latitude": 13.9256773,
+        "longitude": 100.5984586,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Currency exchange",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Breakfast"
+        ],
+        "price": 12,
+        "img": "https://ak-d.tripcdn.com/images/022011200081afwgv09F4.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/022011200081afwgv09F4.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Livotel Hotel Lat Phrao Bangkok",
+        "rating": 4,
+        "location": "bangkok",
+        "latitude": 13.7649289,
+        "longitude": 100.6333384,
+        "room_type": [
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Luggage storage",
+            "Smoking area",
+            "Wi-Fi",
+            "Breakfast"
+        ],
+        "price": 11,
+        "img": "https://ak-d.tripcdn.com/images/200i15000000yjdf7FE47.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/200i15000000yjdf7FE47.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Baiyoke Sky Hotel Bangkok",
+        "rating": 4.2,
+        "location": "bangkok",
+        "latitude": 13.75427,
+        "longitude": 100.54035,
+        "room_type": [
+            "Airport pickup service",
+            "Restaurant",
+            "Gym",
+            "Spa",
+            "Swimming Pools",
+            "Wi-Fi",
+            "Bar",
+            "Sauna",
+            "24 hour reception",
+            "Currency exchange",
+            "Luggage storage",
+            "Car hire",
+            "Smoking area",
+            "Breakfast"
+        ],
+        "price": 53,
+        "img": "https://ak-d.tripcdn.com/images/2001170000013748g5C51.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/2001170000013748g5C51.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Da Zhong Airport Hotel",
+        "rating": 4.2,
+        "location": "shanghai",
+        "latitude": 31.15000548671695,
+        "longitude": 121.80614245171736,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Gym",
+            "Wi-Fi",
+            "Breakfast"
+        ],
+        "price": 57,
+        "img": "https://ak-d.tripcdn.com/images/200a0j000000ali3z17EE.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/200a0j000000ali3z17EE.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Radisson Collection Hyland Shanghai",
+        "rating": 4.5,
+        "location": "shanghai",
+        "latitude": 31.235672093802,
+        "longitude": 121.48086965913,
+        "room_type": [
+            "Airport pickup service",
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Currency exchange",
+            "Luggage storage",
+            "Car hire",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 70,
+        "img": "https://ak-d.tripcdn.com/images/0204u120008ycpmg69D2B.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0204u120008ycpmg69D2B.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Swissotel Grand Shanghai",
+        "rating": 4.6,
+        "location": "shanghai",
+        "latitude": 31.22478750135189,
+        "longitude": 121.44713703118809,
+        "room_type": [
+            "Sauna",
+            "Airport pickup service",
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Currency exchange",
+            "Luggage storage",
+            "Spa",
+            "Swimming Pools",
+            "Wi-Fi",
+            "Bar",
+            "Non-smoking room",
+            "Breakfast"
+        ],
+        "price": 80,
+        "img": "https://ak-d.tripcdn.com/images/0201n1200099ehvr18EA2.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0201n1200099ehvr18EA2.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Radisson Blu Hotel Shanghai New World",
+        "rating": 4.5,
+        "location": "shanghai",
+        "latitude": 31.23462065011125,
+        "longitude": 121.47326981809898,
+        "room_type": [
+            "Airport pickup service",
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Currency exchange",
+            "Luggage storage",
+            "Spa",
+            "Car hire",
+            "Swimming Pools",
+            "Wi-Fi",
+            "Bar",
+            "Non-smoking room",
+            "Breakfast"
+        ],
+        "price": 76,
+        "img": "https://ak-d.tripcdn.com/images/1mc3612000brd10vd755E.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/1mc3612000brd10vd755E.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Crowne Plaza Shanghai Nanjing Road",
+        "rating": 4.6,
+        "location": "shanghai",
+        "latitude": 31.23439292625342,
+        "longitude": 121.4769987312822,
+        "room_type": [
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Currency exchange",
+            "Luggage storage",
+            "Car hire",
+            "Swimming Pools",
+            "Wi-Fi",
+            "Bar",
+            "Non-smoking room",
+            "Breakfast"
+        ],
+        "price": 73,
+        "img": "https://ak-d.tripcdn.com/images/0200o120008yfc49wAE8B.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0200o120008yfc49wAE8B.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Yitel Premium (Shanghai people's Square Nanjing Road Pedestrian Street shop)",
+        "rating": 4.6,
+        "location": "shanghai",
+        "latitude": 31.2358385477519,
+        "longitude": 121.47800509270537,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Car hire",
+            "Wi-Fi",
+            "Smoking area",
+            "Breakfast"
+        ],
+        "price": 56,
+        "img": "https://ak-d.tripcdn.com/images/02053120008whtqp29D16.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/02053120008whtqp29D16.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Dayin International Youth Hostel\uff08East Nanjing Road & The Bund\uff09",
+        "rating": 4.7,
+        "location": "shanghai",
+        "latitude": 31.23645452112007,
+        "longitude": 121.47495246590192,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Gym",
+            "Luggage storage",
+            "Car hire",
+            "Smoking area",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 12,
+        "img": "https://ak-d.tripcdn.com/images/1mc0x12000awr5i2v6FF4.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/1mc0x12000awr5i2v6FF4.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Kingtown Hotel Plaza Shanghai",
+        "rating": 4.6,
+        "location": "shanghai",
+        "latitude": 31.23876755257022,
+        "longitude": 121.47144541901177,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Gym",
+            "Currency exchange",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Non-smoking room",
+            "Breakfast"
+        ],
+        "price": 47,
+        "img": "https://ak-d.tripcdn.com/images/200e0s000000hpfxiC8D7.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/200e0s000000hpfxiC8D7.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Hotel Equatorial Shanghai",
+        "rating": 4.5,
+        "location": "shanghai",
+        "latitude": 31.22022588158804,
+        "longitude": 121.444585810782,
+        "room_type": [
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Currency exchange",
+            "Luggage storage",
+            "Spa",
+            "Car hire",
+            "Swimming Pools",
+            "Wi-Fi",
+            "Bar",
+            "Non-smoking room",
+            "Breakfast"
+        ],
+        "price": 55,
+        "img": "https://ak-d.tripcdn.com/images/200d050000000do2eBD0E.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/200d050000000do2eBD0E.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Holiday Inn Express Shanghai Pudong Airport",
+        "rating": 4.4,
+        "location": "shanghai",
+        "latitude": 31.17331087902199,
+        "longitude": 121.79512036866511,
+        "room_type": [
+            "Airport pickup service",
+            "Restaurant",
+            "24 hour reception",
+            "Gym",
+            "Luggage storage",
+            "Wi-Fi",
+            "Breakfast"
+        ],
+        "price": 51,
+        "img": "https://ak-d.tripcdn.com/images/0206u12000b6h8iqx64FE.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0206u12000b6h8iqx64FE.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Sunway Putra Hotel Kuala Lumpur",
+        "rating": 4.5,
+        "location": "kuala-lumpur",
+        "latitude": 3.1664256,
+        "longitude": 101.6924194,
+        "room_type": [
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Luggage storage",
+            "Swimming Pools",
+            "Smoking area",
+            "Wi-Fi",
+            "Breakfast"
+        ],
+        "price": 35,
+        "img": "https://ak-d.tripcdn.com/images/200g1c000001dmr8y1D1B.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/200g1c000001dmr8y1D1B.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Prescott Hotel Kuala Lumpur Medan Tuanku",
+        "rating": 4.4,
+        "location": "kuala-lumpur",
+        "latitude": 3.1589484,
+        "longitude": 101.69726700000001,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Breakfast"
+        ],
+        "price": 19,
+        "img": "https://ak-d.tripcdn.com/images/02072120006p6lmkz5F60.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/02072120006p6lmkz5F60.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "PARKROYAL COLLECTION KUALA LUMPUR",
+        "rating": 4.4,
+        "location": "kuala-lumpur",
+        "latitude": 3.1442552,
+        "longitude": 101.7122553,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Gym",
+            "Luggage storage",
+            "Car hire",
+            "Spa",
+            "Swimming Pools",
+            "Wi-Fi",
+            "Bar",
+            "Breakfast"
+        ],
+        "price": 66,
+        "img": "https://ak-d.tripcdn.com/images/02060120009qyqi692C75.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/02060120009qyqi692C75.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Hotel Transit Kuala Lumpur",
+        "rating": 4,
+        "location": "kuala-lumpur",
+        "latitude": 3.1460304,
+        "longitude": 101.7015022,
+        "room_type": [
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area"
+        ],
+        "price": 17,
+        "img": "https://ak-d.tripcdn.com/images/fd/hotel/g3/M04/EE/11/CggYGladvCGAfBRKACLHMD5ZKqw813.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/fd/hotel/g3/M04/EE/11/CggYGladvCGAfBRKACLHMD5ZKqw813.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Royale Chulan Kuala Lumpur",
+        "rating": 4.5,
+        "location": "kuala-lumpur",
+        "latitude": 3.1492588,
+        "longitude": 101.7170562,
+        "room_type": [
+            "Restaurant",
+            "Gym",
+            "24 hour reception",
+            "Luggage storage",
+            "Spa",
+            "Swimming Pools",
+            "Wi-Fi",
+            "Golf course",
+            "Breakfast"
+        ],
+        "price": 50,
+        "img": "https://ak-d.tripcdn.com/images/hotel/917000/916311/32790a7467b64f12b5260fb480724f87.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/hotel/917000/916311/32790a7467b64f12b5260fb480724f87.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Hotel Olympic Malaysia Kuala Lumpur",
+        "rating": 4.1,
+        "location": "kuala-lumpur",
+        "latitude": 3.1428197,
+        "longitude": 101.7024261,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Breakfast"
+        ],
+        "price": 27,
+        "img": "https://ak-d.tripcdn.com/images/0204h12000818zyyaBB07.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0204h12000818zyyaBB07.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Sleeping Lion Suites",
+        "rating": 4.4,
+        "location": "kuala-lumpur",
+        "latitude": 3.1460703,
+        "longitude": 101.7143682,
+        "room_type": [
+            "Sauna",
+            "Gym",
+            "24 hour reception",
+            "Luggage storage",
+            "Swimming Pools",
+            "Wi-Fi"
+        ],
+        "price": 35,
+        "img": "https://ak-d.tripcdn.com/images/0201x12000afncs9kB5B0.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0201x12000afncs9kB5B0.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Hotel Sentral KL @ KL Sentral Station",
+        "rating": 3.9,
+        "location": "kuala-lumpur",
+        "latitude": 3.13208,
+        "longitude": 101.68824,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Breakfast"
+        ],
+        "price": 17,
+        "img": "https://ak-d.tripcdn.com/images/t1/hotel/846000/845444/e4facc34a54d4c1cbce24b4204bdc9b9.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/t1/hotel/846000/845444/e4facc34a54d4c1cbce24b4204bdc9b9.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Travelodge Chinatown Kuala Lumpur",
+        "rating": 4.1,
+        "location": "kuala-lumpur",
+        "latitude": 3.1439397,
+        "longitude": 101.6955239,
+        "room_type": [
+            "Restaurant",
+            "24 hour reception",
+            "Luggage storage",
+            "Wi-Fi",
+            "Smoking area",
+            "Breakfast"
+        ],
+        "price": 27,
+        "img": "https://ak-d.tripcdn.com/images/20091e000001f8rwc09D0.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/20091e000001f8rwc09D0.jpg"
+        ]
+    },
+    {
+        "propertyTitle": "Neu Suites @ 3RdNvenue by Perfect Host",
+        "rating": 4.1,
+        "location": "kuala-lumpur",
+        "latitude": 3.16297,
+        "longitude": 101.73703,
+        "room_type": [
+            "Gym",
+            "Swimming Pools"
+        ],
+        "price": 19,
+        "img": "https://ak-d.tripcdn.com/images/0585j12000epl1ut73D38.jpg",
+        "image_urls": [
+            "https://ak-d.tripcdn.com/images/0585j12000epl1ut73D38.jpg"
+        ]
+    }
+]

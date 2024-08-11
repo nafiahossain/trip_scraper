@@ -1,0 +1,122 @@
+[
+    {
+        "id": 338,
+        "name": "London",
+        "cityUrl": "london",
+        "imgUrl": "https://ak-d.tripcdn.com/images/fd/tg/g3/M03/D7/26/CggYG1bGymyAYcDvAA2KNxQbifw151.jpg"
+    },
+    {
+        "id": 722,
+        "name": "Manchester",
+        "cityUrl": "manchester",
+        "imgUrl": "https://ak-d.tripcdn.com/images/0101u120008k37mdzC5DD.jpg"
+    },
+    {
+        "id": 3187,
+        "name": "Liverpool",
+        "cityUrl": "liverpool",
+        "imgUrl": "https://ak-d.tripcdn.com/images/0101m120009bxrco16C5C.jpg"
+    },
+    {
+        "id": 1270,
+        "name": "Birmingham",
+        "cityUrl": "birmingham",
+        "imgUrl": "https://ak-d.tripcdn.com/images/0104o120008yfxq7w235F.jpg"
+    },
+    {
+        "id": 706,
+        "name": "Edinburgh",
+        "cityUrl": "edinburgh",
+        "imgUrl": "https://ak-d.tripcdn.com/images/10030z000000nb1911E08.jpg"
+    },
+    {
+        "id": 3194,
+        "name": "Bournemouth",
+        "cityUrl": "bournemouth",
+        "imgUrl": "https://ak-d.tripcdn.com/images/0ww0712000aext3q867B9.jpg"
+    },
+    {
+        "id": 1733,
+        "name": "Leeds",
+        "cityUrl": "leeds",
+        "imgUrl": "https://ak-d.tripcdn.com/images/0105d120009bxsjvv21E9.jpg"
+    },
+    {
+        "id": 780,
+        "name": "Glasgow",
+        "cityUrl": "glasgow",
+        "imgUrl": "https://ak-d.tripcdn.com/images/0105u120008x0rfygA658.jpg"
+    },
+    {
+        "id": 415494,
+        "name": "Ringway",
+        "cityUrl": "ringway",
+        "imgUrl": "https://ak-d.tripcdn.com/images/0ww5012000a9u5blcAD28.jpg"
+    },
+    {
+        "id": 3226,
+        "name": "Blackpool",
+        "cityUrl": "blackpool",
+        "imgUrl": "https://ak-d.tripcdn.com/images/01072120008x11ll5A7AF.jpg"
+    },
+    {
+        "id": 359,
+        "name": "Bangkok",
+        "cityUrl": "bangkok",
+        "imgUrl": "https://ak-d.tripcdn.com/images/0104c120005ww2m2yF324.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Shanghai",
+        "cityUrl": "shanghai",
+        "imgUrl": "https://ak-d.tripcdn.com/images/100e0h0000008rp39A12F.jpg"
+    },
+    {
+        "id": 315,
+        "name": "Kuala Lumpur",
+        "cityUrl": "kuala-lumpur",
+        "imgUrl": "https://ak-d.tripcdn.com/images/0106n120008c2wtksBBD8.jpg"
+    },
+    {
+        "id": 58,
+        "name": "Hong Kong",
+        "cityUrl": "hong-kong",
+        "imgUrl": "https://ak-d.tripcdn.com/images/0101k12000admkld4652D.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Beijing",
+        "cityUrl": "beijing",
+        "imgUrl": "https://ak-d.tripcdn.com/images/100a0g00000087qb8E7CE.jpg"
+    },
+    {
+        "id": 73,
+        "name": "Singapore",
+        "cityUrl": "singapore",
+        "imgUrl": "https://ak-d.tripcdn.com/images/100m1c000001dggjf1658.jpg"
+    },
+    {
+        "id": 532,
+        "name": "Istanbul",
+        "cityUrl": "istanbul",
+        "imgUrl": "https://ak-d.tripcdn.com/images/10060g0000007qh9aB677.jpg"
+    },
+    {
+        "id": 220,
+        "name": "Dubai",
+        "cityUrl": "dubai",
+        "imgUrl": "https://ak-d.tripcdn.com/images/0106u12000adm3d9mF7CE.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Guangzhou",
+        "cityUrl": "guangzhou",
+        "imgUrl": "https://ak-d.tripcdn.com/images/100c180000014rkpq4C68.jpg"
+    },
+    {
+        "id": 192,
+        "name": "Paris",
+        "cityUrl": "paris",
+        "imgUrl": "https://ak-d.tripcdn.com/images/0104112000aq7b2v07E42.jpg"
+    }
+]
