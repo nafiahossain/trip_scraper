@@ -24,7 +24,7 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
 
 ### Project Structure
 
-    ```
+    
     trip_scraper/
     ├── trip_scraper/
     │   ├── __init__.py
@@ -42,7 +42,7 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
     ├── Scraped_locations.json
     ├── Scraped_hotels.json
     └── requirements.txt
-    ```
+    
 
 ### Setup
 
