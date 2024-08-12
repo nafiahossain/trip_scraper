@@ -33,6 +33,7 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
     │   ├── middlewares.py
     │   ├── pipelines.py
     │   ├── settings.py
+    │   ├── images/full/  # after running the program
     │   └── spiders/
     │       ├── __init__.py
     │       └── trip_scraper.py
