@@ -155,13 +155,13 @@ Check the json files where the scraped data for locations and hotels were stored
 
 If you want to create a new scrapy project, then run this following commands: 
 
-    ```bash
+    ```sh
     scrapy startproject trip_scraper
     ```
 
 To initiate the spider,
 
-    ```bash
+    ```sh
     scrapy genspider trip_scraper
     ```
 
