@@ -63,6 +63,8 @@ class HotelSpider(scrapy.Spider):
                                 hotel_dict = ItemAdapter(hotel_item).asdict()
                                 hotels.append(hotel_dict)
 
+        """
+        #Remove comment in order to generate json files containing scraped data
         # Save the locations to a JSON file
         Path('Scraped_locations.json').write_text(json.dumps(locations, indent=4))
         self.log(f'Saved locations to Scraped_locations.json')
@@ -70,3 +72,4 @@ class HotelSpider(scrapy.Spider):
         # Save the hotels to a JSON file
         Path('Scraped_hotels.json').write_text(json.dumps(hotels, indent=4))
         self.log(f'Saved hotels to Scraped_hotels.json')
+        """
