@@ -43,8 +43,8 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
     │       └── trip_scraper.py
     ├── scrapy.cfg
     ├── README.md
-    ├── Scraped_locations.json
-    ├── Scraped_hotels.json
+    ├── Scraped_locations.json   # remove comment to generate this file
+    ├── Scraped_hotels.json      # remove comment to generate this file
     └── requirements.txt
     
 
