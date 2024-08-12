@@ -10,14 +10,14 @@ class HotelSpider(scrapy.Spider):
     name = "trip_scraper"
 
     def start_requests(self):
-        star_url = "https://uk.trip.com/hotels/"
+        start_url = "https://uk.trip.com/hotels/"
         headers = {
             'Accept': '*/*',
             'Accept-Encoding': 'gzip, deflate, br',
             'Connection': 'keep-alive',
         }
         
-        yield scrapy.Request(star_url, headers=headers, callback=self.parse_locations)
+        yield scrapy.Request(start_url, headers=headers, callback=self.parse_locations)
 
     def parse_locations(self, response):
         script_text = response.xpath('//script[contains(text(), "window.IBU_HOTEL")]/text()').get()
