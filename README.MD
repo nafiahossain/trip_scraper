@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Scrapy project to scrape hotel data from Trip.com, download hotel images, and store the scraped data in a PostgreSQL database and JSON files.
+A Scrapy project to scrape hotel data from Trip.com, download hotel images, and store the scraped data in a PostgreSQL database and JSON files.  At first it scrapes all the locations on the start_url: https://uk.trip.com/hotels/ , then scrapes hotel data for few of those locations.
 
 ## Features
 
