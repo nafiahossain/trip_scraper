@@ -6,10 +6,14 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
 
 ## Features
 
-- Scrapes hotel data from specified locations on Trip.com. 
-- Downloads and stores hotel images in a local directory.
+- Used Scrapy Spider to handle all the web scraping tasks efficiently.
+- The scraped data is stored in a PostgreSQL database using SQLAlchemy. This ensures a structured and reliable storage solution.
+- Automatic Table Creation and Image Storage:
+    - The database tables are automatically created by SQLAlchemy, so there's no need for manual setup.
+    - Scraped images are saved into a directory that is automatically created during runtime. The file paths for these images are stored in the database, making it easy to retrieve them later.
 - Saves the scraped data in JSON files (Scraped_locations.json and Scraped_hotels.json).
-- Stores the scraped data in a PostgreSQL database.
+- This README.md file includes detailed guidelines on how to set up and use the project. This includes everything from installing dependencies to running the Scrapy spider and accessing the stored data.
+
 
 ## Installation
 
@@ -19,7 +23,7 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
 - Scrapy
 - PostgreSQL
 - SQLAlchemy
-- dotenv (recommended for important database informations)
+- dotenv (recommended for database confidentiality)
 - Virtualenv (optional but recommended)
 
 ### Project Structure
