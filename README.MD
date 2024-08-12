@@ -87,7 +87,7 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
     ```
 
     Step 3: Create the Database
-    Once connected, use the following SQL command to create a database. Replace database_name with your desired database name:
+    Once connected, use the following SQL command to create a database. Replace yourdatabase with your desired database name:
    
     ```sql
     CREATE DATABASE yourdatabase;
