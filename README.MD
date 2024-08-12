@@ -130,7 +130,8 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
         - Adjust the settings in settings.py to customize the image storage location and other Scrapy settings.
 
 8. **Run the application**:
-    Run the Spider:
+
+    1. Run the Spider:
 
     Use the following command to start the scraper:
 
@@ -139,7 +140,7 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
     scrapy crawl trip_scraper
     ```
 
-    Output:
+    2. Output:
 
     Images: Downloaded and stored in the directory specified in IMAGES_STORE.
     Locations Data: Saved in Scraped_locations.json (For visualizing how the data scraped from trip.com).
