@@ -10,21 +10,14 @@ class HotelSpider(scrapy.Spider):
     name = "trip_scraper"
 
     def start_requests(self):
-        url = "https://uk.trip.com/hotels/"
+        star_url = "https://uk.trip.com/hotels/"
         headers = {
             'Accept': '*/*',
             'Accept-Encoding': 'gzip, deflate, br',
             'Connection': 'keep-alive',
         }
-        cookies = {
-            'UBT_VID': '1723359700545.4367rORpZybh',
-            '_abtest_userid': 'fc21eec6-20df-419c-b4f5-4cf3742fe3d0',
-            'cookiePricesDisplayed': 'GBP',
-            'ibulanguage': 'EN',
-            'ibulocale': 'en_gb',
-            'IBU_TRANCE_LOG_P': '82072753226',
-        }
-        yield scrapy.Request(url, headers=headers, cookies=cookies, callback=self.parse_locations)
+        
+        yield scrapy.Request(star_url, headers=headers, callback=self.parse_locations)
 
     def parse_locations(self, response):
         script_text = response.xpath('//script[contains(text(), "window.IBU_HOTEL")]/text()').get()
@@ -59,7 +52,7 @@ class HotelSpider(scrapy.Spider):
                                     location=city['cityUrl'],
                                     latitude=hotel.get('lat', 'N/A'),
                                     longitude=hotel.get('lon', 'N/A'),
-                                    room_type=[facility['name'] for facility in hotel.get('hotelFacilityList', [])],
+                                    room_type=[amenities['name'] for amenities in hotel.get('hotelFacilityList', [])],
                                     price=hotel.get('displayPrice', {}).get('price', 'N/A'),
                                     img=f"https://ak-d.tripcdn.com/images{hotel.get('imgUrl', '')}",
                                     image_urls=[f"https://ak-d.tripcdn.com/images{hotel.get('imgUrl', '')}"]
