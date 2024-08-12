@@ -131,7 +131,7 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
 
 8. **Run the application**:
 
-    1. Run the Spider:
+    - Run the Spider:
 
     Use the following command to start the scraper:
 
@@ -140,16 +140,30 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
     scrapy crawl trip_scraper
     ```
 
-    2. Output:
+    - Output:
 
-    Images: Downloaded and stored in the directory specified in IMAGES_STORE.
-    Locations Data: Saved in Scraped_locations.json (For visualizing how the data scraped from trip.com).
-    Hotels Data: Saved in Scraped_hotels.json (For visualizing how the data scraped from trip.com).
-    Database: Scraped hotel data stored in 'yourdatabase', in the PostgreSQL database.
+        - Images: Downloaded and stored in the directory specified in IMAGES_STORE.
+        - Locations Data: Saved in Scraped_locations.json (For visualizing how the data scraped from trip.com).
+        - Hotels Data: Saved in Scraped_hotels.json (For visualizing how the data scraped from trip.com).
+        - Database: Scraped hotel data stored in 'yourdatabase', in the PostgreSQL database.
 
 ## Testing
 
 Check the json files where the scraped data for locations and hotels were stored. Also check your database and image directory  whether the data was scraped or not. 
+
+## Starting New Project (optional)
+
+    If you want to create a new scrapy project, then run this following commands: 
+
+    ```bash
+    scrapy startproject trip_scraper
+    ```
+
+    To initiate the spider,
+
+    ```bash
+    scrapy genspider trip_scraper
+    ```
 
 ## Contributing
 
