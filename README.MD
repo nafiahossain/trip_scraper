@@ -24,7 +24,7 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
 
 ### Project Structure
 
-    ```bash
+    ```
     trip_scraper/
     ├── trip_scraper/
     │   ├── __init__.py
