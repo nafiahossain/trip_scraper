@@ -10,9 +10,9 @@ class HotelSpider(scrapy.Spider):
     name = "trip_scraper"
 
     def start_requests(self):
-        start_url = "https://uk.trip.com/hotels/"
+        start_url = "https://uk.trip.com/hotels/?locale=en-GB&curr=GBP"
         headers = {
-            'Accept': '*/*',
+            'Accept': 'application/json',
             'Accept-Encoding': 'gzip, deflate, br',
             'Connection': 'keep-alive',
         }
