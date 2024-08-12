@@ -120,6 +120,14 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
     ```
     Replace 'path/to/your/image_directory' with the actual path where you want to store the images.
 
+    - Custom Pipelines
+
+        - CustomImagesPipeline: Downloads images and stores them in the specified directory. It also updates the images field in each HotelItem with the paths of the downloaded images.
+        - PostgreSQLPipeline: Stores the scraped hotel data in a PostgreSQL database.
+    
+    - Notes
+        - Ensure that the image_urls field in HotelItem is correctly populated with the URLs of the images you want to download.
+        - Adjust the settings in settings.py to customize the image storage location and other Scrapy settings.
 
 8. **Run the application**:
     Run the Spider:
