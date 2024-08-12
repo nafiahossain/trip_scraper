@@ -19,7 +19,7 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
 - Scrapy
 - PostgreSQL
 - SQLAlchemy
-- dotenv (optional but recommended)
+- dotenv (recommended for important database informations)
 - Virtualenv (optional but recommended)
 
 ### Project Structure
@@ -28,6 +28,7 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
     trip_scraper/
     ├── trip_scraper/
     │   ├── __init__.py
+    │   ├── .env
     │   ├── items.py
     │   ├── middlewares.py
     │   ├── pipelines.py
@@ -35,18 +36,20 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
     │   └── spiders/
     │       ├── __init__.py
     │       └── trip_scraper.py
-    ├── .env
     ├── scrapy.cfg
     ├── README.md
+    ├── Scraped_locations.json
+    ├── Scraped_hotels.json
     └── requirements.txt
     ```
+
 ### Setup
 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/nafiahossain/Flask_API.git
-    cd Flask-API
+    git clone https://github.com/nafiahossain/trip_scraper.git
+    cd trip_scraper
     ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
@@ -71,6 +74,7 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
 5. **Set up environment variables**:
 
     Create a database:
+
     Step 1: Open the PostgreSQL Command Line
     First, access the PostgreSQL command line interface (CLI) or use a graphical user interface (GUI) tool like pgAdmin.
 
@@ -122,17 +126,20 @@ A Scrapy project to scrape hotel data from Trip.com, download hotel images, and 
     Use the following command to start the scraper:
 
     ```bash
+    cd trip_scraper
     scrapy crawl trip_scraper
     ```
 
     Output:
 
     Images: Downloaded and stored in the directory specified in IMAGES_STORE.
-    Locations Data: Saved in Scraped_locations.json.
-    Hotels Data: Saved in Scraped_hotels.json and stored in the PostgreSQL database.
+    Locations Data: Saved in Scraped_locations.json (For visualizing how the data scraped from trip.com).
+    Hotels Data: Saved in Scraped_hotels.json (For visualizing how the data scraped from trip.com).
+    Database: Scraped hotel data stored in 'yourdatabase', in the PostgreSQL database.
 
 ## Testing
 
+Check the json files where the scraped data for locations and hotels were stored. Also check your database and image directory  whether the data was scraped or not. 
 
 ## Contributing
 
